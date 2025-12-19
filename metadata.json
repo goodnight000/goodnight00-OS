@@ -1,0 +1,7 @@
+{
+  "name": "Ghibli OS Personal Site",
+  "description": "A cozy, hand-painted desktop OS experience for a personal portfolio, featuring draggable windows, watercolor aesthetics, and paper textures.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
